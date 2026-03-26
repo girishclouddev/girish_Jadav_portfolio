@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(npx create-vite@latest . --template react --yes)",
+      "Read(//c/Workspace/React - Website/claude/**)",
+      "Bash(npx create-vite@latest portfolio --template react)"
+    ]
+  }
+}
